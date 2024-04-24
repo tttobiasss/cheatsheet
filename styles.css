@@ -1,0 +1,56 @@
+body {
+    background-color: #AAABB8;
+    z-index: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Arial Black";
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: #2C2C54;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+table {
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid #2C2C54;
+    padding: 2px;
+}
+
+th {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #474787;
+    background-color: #D4D4D4;
+}
+
+.tag {
+    width: 150px;
+}
+
+.naam {
+    width: 100px;
+}
+
+.beschrijving {
+    width: 600px;
+}
+
+span {
+    background-color: lightgrey;
+    font-family: monospace;
+}
+
+.ff {
+    font-weight: 500;
+}
+
+td {
+    border-top: 1.5px solid #2C2C54
+}
+
